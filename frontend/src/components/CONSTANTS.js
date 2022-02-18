@@ -1,4 +1,4 @@
-const GET_PEOPLE = "http://localhost:5000/people/"
+const GET_PEOPLE = "https://sovtech-luvo-demo.herokuapp.com/people/"
 
 
 export {GET_PEOPLE}

@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
 const app = express()
 
 const corsOptions = {
-    origin: 'http://localhost:3000', //http://localhost:3000
+    origin: 'https://sovtech-luvo-demo.surge.sh', 
     optionsSuccessStatus: 200 // For legacy browser support
   };
 
