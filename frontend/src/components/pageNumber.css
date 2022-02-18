@@ -1,0 +1,16 @@
+.selected{
+    background-color: rgb(204, 85, 0);
+    color: white;
+}
+
+.selected:hover{
+    cursor: pointer;
+}
+
+.not-selected:hover{
+    cursor: pointer;
+    opacity: 0.7;
+    background-color: rgb(204, 85, 0);
+    color: white;
+    transition: background-color 0.5s;
+}
