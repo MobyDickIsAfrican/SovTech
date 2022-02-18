@@ -13,7 +13,7 @@ import Pagination from './Pagination';
          return PeopleUI;
      };
      return (
-         <Container style={{display: "flex", justifyContent: "center"}}>           
+         <Container style={{display: "flex", justifyContent: "center", marginBottom: "30px"}}>           
              <Card style={{width: "50%", borderStyle: "solid", borderWidth: "1px", borderColor: "lightgrey",
               }}>
                 <Card.Header><h2 style={{color: "#00308F", }}>List of People</h2></Card.Header>
